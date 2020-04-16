@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
  { int N, maxN = atoi(argv[1]), sw = atoi(argv[2]);
     Key v; Item item;
     STinit(maxN);
-    printf("Enter 10 keys\n");  //apo to makefile pairnei 10 keys.
+    printf("Enter 10 keys\n");  //from makefile it take as input 10 keys by default
     for (N = 0; N < maxN; N++)
       {
         if (sw) v = ITEMrand();
