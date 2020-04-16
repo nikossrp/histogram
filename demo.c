@@ -1,5 +1,3 @@
-/* This code is from "Algorithms in C, Third Edition, by Robert Sedgewick, Addison-Wesley, 1998. */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "Item.h"
